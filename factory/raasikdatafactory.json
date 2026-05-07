@@ -1,0 +1,15 @@
+{
+	"name": "raasikdatafactory",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5d9811f2-b892-4f2b-a1e1-695b832c9238",
+		"tenantId": "904b1196-04a3-4df1-bf90-47ed23f1b28b"
+	}
+}
